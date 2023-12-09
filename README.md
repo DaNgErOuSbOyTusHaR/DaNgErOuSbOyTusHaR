@@ -4,7 +4,7 @@
 <h3 align="center">DANGEROUSBOY TUSHAR</h3>
 <img align="right" alt="Coding" width="400"
 src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄; +𝐈'𝐌+𝐉𝐔𝐍𝐈𝐎𝐑+𝐂𝐎𝐃𝐄𝐑+𝐃𝐓!+😍🥀; +𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆+𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆+🥳👻;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄;+𝐈'𝐌+𝐉𝐔𝐍𝐈𝐎𝐑+𝐂𝐎𝐃𝐄𝐑+𝐃𝐓!;+𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆+𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆;" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangerousboytushar&label=Profile%20views&color=0e75b6&style=flat" alt="dangerousboytushar" /> </p>
 

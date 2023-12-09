@@ -1,4 +1,4 @@
-[![logo](https://github.com/DaNgErOuSbOyTusHaR/DaNgErOuSbOyTusHaR/blob/main/dt1.png)
+![logo](https://github.com/DaNgErOuSbOyTusHaR/DaNgErOuSbOyTusHaR/blob/main/dt1.png)
 
 <h1 align="center">Hi 👋, 𝐈'𝐌 𝐃𝐀𝐍𝐆𝐄𝐑𝐎𝐔𝐒𝐁𝐎𝐘 𝐓𝐔𝐒𝐇𝐀𝐑</h1>
 <h3 align="center">DANGEROUSBOY TUSHAR</h3>

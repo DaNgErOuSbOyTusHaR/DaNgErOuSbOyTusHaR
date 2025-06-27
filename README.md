@@ -1,4 +1,4 @@
-![logo](https://github.com/DaNgErOuSbOyTusHaR/DaNgErOuSbOyTusHaR/blob/main/dt1.png)
+![logo](https://github.com/INTROVERTTUSHAR/DaNgErOuSbOyTusHaR/blob/main/dt1.png)
 
 <h1 align="center">Hi 👋, 𝐈'𝐌 INTROVERT 𝐓𝐔𝐒𝐇𝐀𝐑</h1>
 <h3 align="center"> INTROVERT TUSHAR</h3>
@@ -10,7 +10,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning **python, js, php, c.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DaNgErOuSbOyTusHaR](https://github.com/DaNgErOuSbOyTusHaR)
+- 👨‍💻 All of my projects are available at [(https://github.com/INTROVERTTUSHAR)](https://github.com/INTROVERTTUSHAR)
 
 - 📝 I regularly write articles on [https://DANGEROUSBOYTUSHAR.blogspot.com](https://DANGEROUSBOYTUSHAR.blogspot.com)
 
